@@ -1,1 +1,1 @@
-# CyberSecurity-HomeLabs
+# CyberSecurity HomeLabs
